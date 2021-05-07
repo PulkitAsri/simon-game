@@ -51,3 +51,8 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.next-level{
+  background-color: rgb(0, 255, 51);
+  opacity: 0.8;
+}
